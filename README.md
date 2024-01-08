@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanSoloCh&theme=swift&hide=Shell">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanSoloCh&theme=swift&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanSoloCh&theme=swift&utcOffset=3">
 </p>
 
 
